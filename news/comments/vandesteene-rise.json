@@ -1,4 +1,4 @@
-```json
+
 {
   "enableVoteDrift": true,
   "comments": [
@@ -88,4 +88,4 @@
     }
   ]
 }
-```
+
