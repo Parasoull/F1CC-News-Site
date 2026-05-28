@@ -1,3 +1,4 @@
+
 {
   "enableVoteDrift": true,
   "comments": [
@@ -36,44 +37,44 @@
       ]
     },
     {
-  "author": "TifosiForever",
-  "date": "15 Feb 2026",
-  "text": "So Ferrari haven't produced a soft-tyre headline number, Cachinho missed Day 1 entirely, and his \"heavy\" Day 2 was development work. I'm not panicking, but I am deeply uneasy. If we show up in Melbourne and the car is only good for low 1:34s, we're starting the season fighting Williams and Audi, not McLaren and Red Bull. Eetu's 1:34.160 on softs on Day 3 is not a pole lap. Not even close.",
-  "likes": 98,
-  "dislikes": 87,
-  "replies": [
-    {
-      "author": "ScuderiaStrategist",
-      "date": "16 Feb 2026",
-      "text": "You do know Ferrari booked Day 1 entirely for Väisänen, right? Cachinho wasn't supposed to drive. The plan was always to give Eetu a full day of baseline runs. So Cachinho \"missing\" Day 1 isn't the drama some are making it — it's just a programme split. The real eyebrow-raiser is why they then didn't push Cachinho for a proper soft-tyre quali sim on Day 2 or 3.",
-      "likes": 47,
-      "dislikes": 3,
-      "replies": []
-    },
-    {
-      "author": "scuderia_suffering",
-      "date": "16 Feb 2026",
-      "text": "Wait, I didn't know they booked Day 1 for Väisänen only. That actually changes things. Still no quali sim, but maybe the 176 laps were pure aero correlation work. I'll downgrade my worry from \"impending disaster\" to \"cautious squint\". Melbourne FP1 can't come fast enough.",
-      "likes": 48,
-      "dislikes": 4,
+      "author": "TifosiForever",
+      "date": "15 Feb 2026",
+      "text": "So Ferrari haven't produced a soft-tyre headline number, Cachinho missed Day 1 entirely, and his \"heavy\" Day 2 was development work. I'm not panicking, but I am deeply uneasy. If we show up in Melbourne and the car is only good for low 1:34s, we're starting the season fighting Williams and Audi, not McLaren and Red Bull. Eetu's 1:34.160 on softs on Day 3 is not a pole lap. Not even close.",
+      "likes": 98,
+      "dislikes": 87,
       "replies": [
         {
-          "author": "CachinhoCurious",
+          "author": "ScuderiaStrategist",
           "date": "16 Feb 2026",
-          "text": "Exactly. His Day 2 P3 on softs (1:33.603) was already quicker than Lei's Day 1 benchmark, and that was probably not even a full push lap. Ferrari ran their own programme and deliberately avoided the final-day glory runs. The race pace from those long runs looked fine.",
-          "likes": 21,
-          "dislikes": 5,
+          "text": "You do know Ferrari booked Day 1 entirely for Väisänen, right? Cachinho wasn't supposed to drive. The plan was always to give Eetu a full day of baseline runs. So Cachinho \"missing\" Day 1 isn't the drama some are making it — it's just a programme split. The real eyebrow-raiser is why they then didn't push Cachinho for a proper soft-tyre quali sim on Day 2 or 3.",
+          "likes": 47,
+          "dislikes": 3,
           "replies": []
-        }
-      ]
-    },
-    {
-      "author": "BelacikStan",
-      "date": "16 Feb 2026",
-      "text": "Randy Belacik planned this. Väisänen baseline day, Cachinho mileage day, then neither driver chasing a shiny lap on Day 3. This is classic under-promise. I'm still uneasy because the \"uncomfortable question\" from the season guide is open, but the testing programme itself doesn't suggest a slow car.",
-      "likes": 33,
-      "dislikes": 2,
-      "replies": []
+        },
+        {
+          "author": "scuderia_suffering",
+          "date": "16 Feb 2026",
+          "text": "Wait, I didn't know they booked Day 1 for Väisänen only. That actually changes things. Still no quali sim, but maybe the 176 laps were pure aero correlation work. I'll downgrade my worry from \"impending disaster\" to \"cautious squint\". Melbourne FP1 can't come fast enough.",
+          "likes": 48,
+          "dislikes": 4,
+          "replies": [
+            {
+              "author": "CachinhoCurious",
+              "date": "16 Feb 2026",
+              "text": "Exactly. His Day 2 P3 on softs (1:33.603) was already quicker than Lei's Day 1 benchmark, and that was probably not even a full push lap. Ferrari ran their own programme and deliberately avoided the final-day glory runs. The race pace from those long runs looked fine.",
+              "likes": 21,
+              "dislikes": 5,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "author": "BelacikStan",
+          "date": "16 Feb 2026",
+          "text": "Randy Belacik planned this. Väisänen baseline day, Cachinho mileage day, then neither driver chasing a shiny lap on Day 3. This is classic under-promise. I'm still uneasy because the \"uncomfortable question\" from the season guide is open, but the testing programme itself doesn't suggest a slow car.",
+          "likes": 33,
+          "dislikes": 2,
+          "replies": []
         }
       ]
     },
@@ -131,7 +132,7 @@
     {
       "author": "MaraDönerFan42",
       "date": "15 Feb 2026",
-      "text": "Alpine ran 66 laps on Day 2 and Maradöner was P11 on mediums. I'm not saying they're sandbagging, but they are definitely not showing pace. Kondra's Day 1 P3 on softs (1:33.359) was actually impressive. I think Alpine will be solid midfield in Melbourne, not at the back.",
+      "text": "Alpine ran 66 laps on Day 2 and MaraDöner was P11 on mediums. I'm not saying they're sandbagging, but they are definitely not showing pace. Kondra's Day 1 P3 on softs (1:33.359) was actually impressive. I think Alpine will be solid midfield in Melbourne, not at the back.",
       "likes": 28,
       "dislikes": 5,
       "replies": [
@@ -199,7 +200,7 @@
     {
       "author": "AussieHaasFan",
       "date": "15 Feb 2026",
-      "text": "Haas ran \"solidly without setting pulses racing.\" So, business as usual then. Swansson will drag it into Q2, George K. will learn, and we'll finish P9 in the constructors' again. At least we've got Tim Mittens to watch in F2.",
+      "text": "Haas ran \"solidly without posting a time within 1.0s of the front on any day.\" So, business as usual then. Swansson will drag it into Q2, George K. will learn, and we'll finish P9 in the constructors' again. At least we've got Tim Mittens to watch in F2.",
       "likes": 35,
       "dislikes": 2,
       "replies": [
@@ -272,6 +273,14 @@
           ]
         }
       ]
+    },
+    {
+      "author": "NumberCruncher",
+      "date": "15 Feb 2026",
+      "text": "The table is a great touch. Zwart's 1:33.505 is only 0.022s off Lei's Day 1 benchmark on a Day 3 track that was slower. That's extremely close. And the medium-tyre footnote: Roy's 1:33.857 vs Kevu's 1:34.587 is a 0.730s gap. Programmes differ, but if that's representative, Red Bull might have a real edge over VCARB on harder tyres. The \"zero soft-tyre benchmark\" strategy from VCARB has me both impressed and paranoid.",
+      "likes": 53,
+      "dislikes": 3,
+      "replies": []
     }
   ]
 }

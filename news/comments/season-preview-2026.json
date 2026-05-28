@@ -1,3 +1,4 @@
+
 {
   "enableVoteDrift": true,
   "comments": [
@@ -36,7 +37,7 @@
         {
           "author": "SilverArrowsFan",
           "date": "9 Feb 2026",
-          "text": "He got the seat because he filled in for V\u00e4is\u00e4nen mid-2024, now he is replacing Dela Cruz who was runner-up. That is a wild career trajectory.",
+          "text": "He got the seat because he filled in for Väisänen mid-2024, now he is replacing Dela Cruz who was runner-up. That is a wild career trajectory.",
           "likes": 58,
           "dislikes": 2,
           "replies": []
@@ -61,12 +62,12 @@
         {
           "author": "on_the_throttle",
           "date": "9 Feb 2026",
-          "text": "At least Michiii MaraD\u00f6ner's name sounds like a 3am kebab order. That is the most Alpine thing ever.",
+          "text": "At least Michiii MaraDöner's name sounds like a 3am kebab order. That is the most Alpine thing ever.",
           "likes": 89,
           "dislikes": 3,
           "replies": [
             {
-              "author": "MaraD\u00f6nerFan42",
+              "author": "MaraDönerFan42",
               "date": "9 Feb 2026",
               "text": "Put some respect on it - he scored 43 points in that tractor last year and looked decent late on. Pairing him with Kondra is a gamble though. Nick Beier outscored him and lost his seat, make it make sense.",
               "likes": 22,
@@ -155,7 +156,7 @@
         {
           "author": "BroccoliRacing",
           "date": "10 Feb 2026",
-          "text": "I am sorry but Audi having a driver named Brock Lee is the most Audi thing ever. \"Charles Mounir, Brock Lee, and Marek Dubi\u0161ar\" sounds like a firm of accountants.",
+          "text": "I am sorry but Audi having a driver named Brock Lee is the most Audi thing ever. \"Charles Mounir, Brock Lee, and Marek Dubišar\" sounds like a firm of accountants.",
           "likes": 47,
           "dislikes": 0,
           "replies": []
@@ -207,7 +208,7 @@
     {
       "author": "GridGazer",
       "date": "9 Feb 2026",
-      "text": "One final note: the article says Melbourne will not decide the championship, but it will tell us which narratives have substance. That is a classy way of saying \"if Cachinho qualifies P16 and bins it in Q2, Ferrari Twitter is going to be a warzone.\"",
+      "text": "One final note: the article says Melbourne won't decide the championship, but it will tell us which of these numbers still hold. That's a classy way of saying \"if Cachinho qualifies P16 and bins it in Q2, Ferrari Twitter is going to be a warzone.\"",
       "likes": 98,
       "dislikes": 2,
       "replies": [
@@ -220,6 +221,14 @@
           "replies": []
         }
       ]
+    },
+    {
+      "author": "NumberCruncher",
+      "date": "9 Feb 2026",
+      "text": "Marcus really went full data analyst on this one. That Ferrari footnote — Dela Cruz 7.53 points per race vs Cachinho 4.03, needing a 3.5 per-race improvement just to tread water — is the most brutal thing in this preview. If Cachinho doesn't close that 61-point gap fast, this stat is going to get quoted back every weekend.",
+      "likes": 77,
+      "dislikes": 3,
+      "replies": []
     }
   ]
 }
