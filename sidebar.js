@@ -119,7 +119,12 @@ async function startSidebarRefresh() {
 }
 
 // Start when DOM is ready (but still wait for loadStories to be defined)
+// On index.html, initFrontPage calls renderSidebar directly after loadStories,
+// so we skip the auto-start there to avoid a rendering race.
 document.addEventListener("DOMContentLoaded", () => {
-    // Give scripts a moment to load, then start
-    setTimeout(startSidebarRefresh, 100);
+    const path = window.location.pathname;
+    const isIndex = path.endsWith('index.html') || path === '/' || path.endsWith('/');
+    if (!isIndex) {
+        setTimeout(startSidebarRefresh, 100);
+    }
 });
